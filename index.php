@@ -70,7 +70,7 @@ document.write("&lt;<a href='mailto:goosh"+"@"+gmail+"?subject=goosh.org' style=
 </script>
 <br/>
 it is NOT an official google product!<br/>
-goosh is <a href='http://code.google.com/p/goosh/' target='_blank'>open source</a> under the Artistic License/GPL.<br/>
+goosh is <a href='https://github.com/grothkopp/goosh' target='_blank'>open source</a> under the Artistic License/GPL.<br/>
 <? include("ad.html"); ?>
 <br/>
  Enter <span class='info'>help</span> or <span class='info'>h</span> for a list of commands.
